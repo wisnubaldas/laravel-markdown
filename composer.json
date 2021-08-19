@@ -15,6 +15,12 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/wisnubaldas/commonmark-shiki-highlighter"
+        }
+    ],
     "require": {
         "php": "^7.4",
         "illuminate/cache": "^8.49",
